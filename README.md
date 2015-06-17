@@ -17,10 +17,11 @@ Methods for managing Clients, applications that need to authenticate
 for access to other applications, are "feature complete" and REPL
 tested.
 
-See the [documentation] for exact details of the currently implemented
-API.
+See the [documentation] or [API Codox] for exact details of the
+currently implemented API.
 
 [documentation]: http://lymingtonprecision.github.io/active-directory-idp-api/doc/uberdoc.html
+[API Codox]: http://lymingtonprecision.github.io/active-directory-idp-api/doc/api/index.html
 
 ## Intended Scope
 
